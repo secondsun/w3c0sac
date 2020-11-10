@@ -3,7 +3,7 @@
 	<groupId>dev.secondsun</groupId>
 	<artifactId>w3c0sac</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>${project.groupId}:${project.artifactId}</name>
 
 	<description>This is a fork of https://www.w3.org/Style/CSS/SAC</description>
@@ -40,7 +40,7 @@
 		<connection>scm:git:git://github.com/secondsun/w3c0sac.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/secondsun/w3c0sac.git</developerConnection>
 		<url>http://github.com/secondsun/w3c0sac/tree/prototype</url>
-		<tag>org.eclipse.w3c0sac.core-0.4.2</tag>
+		<tag>w3c0sac-1.0.0</tag>
 	</scm>
 
 	<dependencies>
